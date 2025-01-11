@@ -1,4 +1,4 @@
-# ShampYou: A Personalized Shampoo Recommender System
+# ShampYou: A Personalized Shampoo Recommender
 
 ## Project Overview
 
